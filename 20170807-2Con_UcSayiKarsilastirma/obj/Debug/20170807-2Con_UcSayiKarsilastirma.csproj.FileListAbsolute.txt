@@ -1,0 +1,5 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-2Con_UcSayiKarsilastirma\20170807-2Con_UcSayiKarsilastirma\bin\Debug\20170807-2Con_UcSayiKarsilastirma.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-2Con_UcSayiKarsilastirma\20170807-2Con_UcSayiKarsilastirma\bin\Debug\20170807-2Con_UcSayiKarsilastirma.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-2Con_UcSayiKarsilastirma\20170807-2Con_UcSayiKarsilastirma\bin\Debug\20170807-2Con_UcSayiKarsilastirma.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-2Con_UcSayiKarsilastirma\20170807-2Con_UcSayiKarsilastirma\obj\Debug\20170807-2Con_UcSayiKarsilastirma.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170807-2Con_UcSayiKarsilastirma\20170807-2Con_UcSayiKarsilastirma\obj\Debug\20170807-2Con_UcSayiKarsilastirma.pdb
